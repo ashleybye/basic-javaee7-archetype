@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>uk.co.ashleybye</groupId>
+    <groupId>uk.co.nemstix</groupId>
     <artifactId>basic-javaee7-archetype</artifactId>
     <version>1.0</version>
 
