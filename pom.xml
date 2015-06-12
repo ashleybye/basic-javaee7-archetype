@@ -7,6 +7,15 @@
     <groupId>uk.co.ashleybye</groupId>
     <artifactId>basic-javaee7-archetype</artifactId>
     <version>1.0</version>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <scm>
         <connection>scm:git:git@github.com:ashleybye/basic-javaee7-archetype.git</connection>
         <url>scm:git:git@github.com:ashleybye/basic-javaee7-archetype.git</url>
