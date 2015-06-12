@@ -8,6 +8,10 @@
     <artifactId>basic-javaee7-archetype</artifactId>
     <version>1.0</version>
 
+    <name>basic-javaee7-archetype</name>
+    <description>A basic Java EE7 Maven archetype</description>
+    <url>https://github.com/ashleybye/basic-javaee7-archetype</url>
+
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
