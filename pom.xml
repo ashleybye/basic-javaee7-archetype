@@ -12,11 +12,19 @@
     <description>A basic Java EE7 Maven archetype</description>
     <url>https://github.com/ashleybye/basic-javaee7-archetype</url>
 
+    <developers>
+        <developer>
+            <name>Ashley Bye</name>
+            <email>ashley.bye85@gmail.com</email>
+            <organization>ashleybye</organization>
+            <organizationUrl>https://github.com/ashleybye</organizationUrl>
+        </developer>
+    </developers>
+
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
         </license>
     </licenses>
 
